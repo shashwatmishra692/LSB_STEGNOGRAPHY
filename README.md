@@ -61,6 +61,7 @@ stego.bmp : Stego image with hidden data
 ## Decoding
 
 ./stego -d stego.bmp decode.txt
+
 stego.bmp : Stego image
 
 decode.txt : Extracted secret file
