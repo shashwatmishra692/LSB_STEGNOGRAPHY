@@ -63,5 +63,18 @@ stego.bmp : Stego image with hidden data
 ./stego -d stego.bmp decode.txt
 stego.bmp : Stego image
 
+
+## Technologies Used
+
+```
+- C Programming Language
+- GCC Compiler
+- File Handling (Binary I/O)
+- Bitwise Operations
+- BMP Image Format
+- Linux Environment
+- Git & GitHub
+
+``` 
 decode.txt : Extracted secret file
 
