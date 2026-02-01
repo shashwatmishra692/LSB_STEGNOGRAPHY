@@ -62,7 +62,7 @@ stego.bmp : Stego image with hidden data
 
 ./stego -d stego.bmp decode.txt
 stego.bmp : Stego image
-
+decode.txt : Extracted secret file
 
 ## Technologies Used
 
@@ -76,5 +76,3 @@ stego.bmp : Stego image
 - Git & GitHub
 
 ``` 
-decode.txt : Extracted secret file
-
